@@ -5,4 +5,6 @@ This paper considers the problems of detecting a change point and estimating the
 to the sample size or even much larger. A new break test is proposed based on signflip parallel analysis to detect the existence of change points. Furthermore, a two-step approach combining a signflip permutation dimension
 reduction step and a CUSUM statistic is proposed to estimate the change point’s location and recover the support of changes. The consistency of the estimator is constructed. Simulation examples and real data applications illustrate the superior empirical performance of the proposed methods. Especially, the proposed methods outperform existing ones for non-Gaussian data and the change point in the extreme tail of a sequence and become more accurate as the dimension p increases. Supplementary materials for this article are available online.
 
-<img width="489" height="199" alt="image" src="https://github.com/user-attachments/assets/3a2930ed-d536-4664-b8c2-ae3c57f09963" />
+We propose a signflip parallel analysis based threshold selection procedure, when the change point exists, $\boldsymbol{w}$
+<img width="571" height="261" alt="image" src="https://github.com/user-attachments/assets/02ac608b-6222-44a7-b355-3d63f7a93162" />
+
