@@ -1,5 +1,6 @@
-# offline-cp-detection
-detect whether there exists a change point or not in high-dimensional correlation matrices, if there exists a cp, then estimate its location. 
+# Efficient change point detection and estimation in high-dimensional correlation matrices
+Li, Z., & Gao, J. (2024). Efficient change point detection and estimation in high-dimensional correlation matrices. Electronic Journal of Statistics, 18(1), 942-979.
 
-
-Please cite our paper 'Li, Z., & Gao, J. (2024). Efficient change point detection and estimation in high-dimensional correlation matrices. Electronic Journal of Statistics, 18(1), 942-979.' if it helps.
+This paper considers the problems of detecting a change point and estimating the location in the correlation matrices of a sequence of highdimensional vectors, where the dimension is large enough to be comparable
+to the sample size or even much larger. A new break test is proposed based on signflip parallel analysis to detect the existence of change points. Furthermore, a two-step approach combining a signflip permutation dimension
+reduction step and a CUSUM statistic is proposed to estimate the change point’s location and recover the support of changes. The consistency of the estimator is constructed. Simulation examples and real data applications illustrate the superior empirical performance of the proposed methods. Especially, the proposed methods outperform existing ones for non-Gaussian data and the change point in the extreme tail of a sequence and become more accurate as the dimension p increases. Supplementary materials for this article are available online.
