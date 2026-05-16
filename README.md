@@ -9,6 +9,7 @@ We propose a threshold selection procedure based on signflip parallel analysis. 
 
 # Reference
 If you find the code useful for your research, please consider citing
+```bibtex
 @article{li2024efficient,
   title={Efficient change point detection and estimation in high-dimensional correlation matrices},
   author={Li, Zhaoyuan and Gao, Jie},
@@ -19,3 +20,4 @@ If you find the code useful for your research, please consider citing
   year={2024},
   publisher={The Institute of Mathematical Statistics and the Bernoulli Society}
 }
+```
