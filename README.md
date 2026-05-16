@@ -22,6 +22,9 @@ If you find the code useful for your research, please consider citing
 }
 ```
 This work is built upon some previous papers which might also interest you:
+
 Dette, H., G. Pan, and Q. Yang. 2022. “Estimating a change point in a sequence of very high-dimensional covariance matrices.” Journal of the American Statistical Association 117(537): 444–454.
+
 Cabrieto, J., F. Tuerlinckx, P. Kuppens, F.H. Wilhelm, M. Liedlgruber, and E. Ceulemans. 2018. “Capturing correlation changes by applying kernel change point detection on the running correlations.” Information Sciences 447: 117–139.
+
 Hong, D., Sheng, Y. and Dobriban, E. (2020). Selecting the number of components in PCA via random signflips. arXiv preprint arXiv:2012.02985.
